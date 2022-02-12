@@ -3,7 +3,7 @@ import string
 
 print('Strong Random Password Generator')
 
-#input the length of password
+#input the type and total length for password
 type_length = 4
 total_length = 8
 
